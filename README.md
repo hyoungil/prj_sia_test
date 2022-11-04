@@ -8,6 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 <a>asdfasdf</a>
+<img>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
